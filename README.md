@@ -12,6 +12,7 @@ My Leetcode Python Solutions
 | [2694-find-the-maximum-divisibility-score](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2756-buy-two-chocolates](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2756-buy-two-chocolates) |
 | [2881-split-strings-by-separator](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2881-split-strings-by-separator) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Stack
 |  |
 | ------- |
@@ -38,4 +39,8 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
+## Math
+|  |
+| ------- |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 <!---LeetCode Topics End-->
