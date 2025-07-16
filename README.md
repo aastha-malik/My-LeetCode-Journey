@@ -6,6 +6,7 @@ My Leetcode Python Solutions
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 | [1306-minimum-absolute-difference](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1306-minimum-absolute-difference) |
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
@@ -30,6 +31,7 @@ My Leetcode Python Solutions
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [1306-minimum-absolute-difference](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1306-minimum-absolute-difference) |
 | [2756-buy-two-chocolates](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2756-buy-two-chocolates) |
 ## String
@@ -45,4 +47,8 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
