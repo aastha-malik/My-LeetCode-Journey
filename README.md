@@ -8,6 +8,7 @@ My Leetcode Python Solutions
 | ------- |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
+| [1019-squares-of-a-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1306-minimum-absolute-difference) |
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
 | [1899-count-items-matching-a-rule](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1899-count-items-matching-a-rule) |
@@ -34,6 +35,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
+| [1019-squares-of-a-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1306-minimum-absolute-difference) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2756-buy-two-chocolates](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2756-buy-two-chocolates) |
@@ -59,4 +61,8 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
