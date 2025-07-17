@@ -15,6 +15,7 @@ My Leetcode Python Solutions
 | [2756-buy-two-chocolates](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2756-buy-two-chocolates) |
 | [2881-split-strings-by-separator](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2881-split-strings-by-separator) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -47,6 +48,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
