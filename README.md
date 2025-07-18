@@ -20,6 +20,7 @@ My Leetcode Python Solutions
 | [1524-string-matching-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1677-matrix-diagonal-sum) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1899-count-items-matching-a-rule](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1899-count-items-matching-a-rule) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2694-find-the-maximum-divisibility-score) |
@@ -71,6 +72,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1115-valid-boomerang) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Heap (Priority Queue)
@@ -113,4 +115,8 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1524-string-matching-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
