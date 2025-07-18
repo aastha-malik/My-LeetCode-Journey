@@ -19,6 +19,7 @@ My Leetcode Python Solutions
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1677-matrix-diagonal-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1677-matrix-diagonal-sum) |
 | [1899-count-items-matching-a-rule](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1899-count-items-matching-a-rule) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2694-find-the-maximum-divisibility-score) |
@@ -65,6 +66,7 @@ My Leetcode Python Solutions
 | ------- |
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1677-matrix-diagonal-sum) |
 ## Math
 |  |
 | ------- |
