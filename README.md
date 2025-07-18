@@ -11,6 +11,7 @@ My Leetcode Python Solutions
 | [0561-array-partition](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1019-squares-of-a-sorted-array) |
+| [1115-valid-boomerang](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1115-valid-boomerang) |
 | [1306-minimum-absolute-difference](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1306-minimum-absolute-difference) |
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
 | [1899-count-items-matching-a-rule](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1899-count-items-matching-a-rule) |
@@ -57,6 +58,7 @@ My Leetcode Python Solutions
 ## Math
 |  |
 | ------- |
+| [1115-valid-boomerang](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1115-valid-boomerang) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Heap (Priority Queue)
@@ -82,4 +84,8 @@ My Leetcode Python Solutions
 | [0001-two-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3446-find-the-number-of-good-pairs-i) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
