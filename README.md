@@ -31,6 +31,7 @@ My Leetcode Python Solutions
 | [2132-convert-1d-array-into-2d-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2639-separate-the-digits-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2639-separate-the-digits-in-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -49,6 +50,7 @@ My Leetcode Python Solutions
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2639-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
 | ------- |
