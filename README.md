@@ -26,6 +26,7 @@ My Leetcode Python Solutions
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1899-count-items-matching-a-rule) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2694-find-the-maximum-divisibility-score) |
