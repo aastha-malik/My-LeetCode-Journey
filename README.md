@@ -25,6 +25,7 @@ My Leetcode Python Solutions
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1899-count-items-matching-a-rule) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2694-find-the-maximum-divisibility-score) |
@@ -88,6 +89,7 @@ My Leetcode Python Solutions
 ## Counting
 |  |
 | ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Two Pointers
 |  |
@@ -106,6 +108,7 @@ My Leetcode Python Solutions
 | [0001-two-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3446-find-the-number-of-good-pairs-i) |
