@@ -39,6 +39,7 @@ My Leetcode Python Solutions
 | [2714-left-and-right-sum-differences](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2836-neither-minimum-nor-maximum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2881-split-strings-by-separator) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -73,6 +74,7 @@ My Leetcode Python Solutions
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2756-buy-two-chocolates](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2756-buy-two-chocolates) |
+| [2836-neither-minimum-nor-maximum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 ## String
 |  |
 | ------- |
