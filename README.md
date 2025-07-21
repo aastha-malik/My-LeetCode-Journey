@@ -41,6 +41,7 @@ My Leetcode Python Solutions
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2881-split-strings-by-separator) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -156,4 +157,8 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 <!---LeetCode Topics End-->
