@@ -38,6 +38,7 @@ My Leetcode Python Solutions
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2756-buy-two-chocolates) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2881-split-strings-by-separator](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2881-split-strings-by-separator) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -58,6 +59,7 @@ My Leetcode Python Solutions
 | ------- |
 | [0561-array-partition](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [2756-buy-two-chocolates](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2756-buy-two-chocolates) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Sorting
 |  |
 | ------- |
