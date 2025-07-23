@@ -82,6 +82,7 @@ My Leetcode Python Solutions
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1524-string-matching-in-an-array) |
 | [1899-count-items-matching-a-rule](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1899-count-items-matching-a-rule) |
+| [2365-percentage-of-letter-in-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2365-percentage-of-letter-in-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2881-split-strings-by-separator) |
 ## Matrix
