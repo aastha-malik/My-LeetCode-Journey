@@ -82,6 +82,7 @@ My Leetcode Python Solutions
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1524-string-matching-in-an-array) |
 | [1899-count-items-matching-a-rule](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1899-count-items-matching-a-rule) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2365-percentage-of-letter-in-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2365-percentage-of-letter-in-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2881-split-strings-by-separator) |
@@ -129,6 +130,7 @@ My Leetcode Python Solutions
 | [0001-two-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
