@@ -7,6 +7,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0414-third-maximum-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
@@ -112,6 +113,7 @@ My Leetcode Python Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
