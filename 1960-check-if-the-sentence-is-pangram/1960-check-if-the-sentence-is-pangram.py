@@ -1,9 +1,7 @@
 class Solution:
     def checkIfPangram(self, sentence: str) -> bool:
-        s = list(set(sentence))
-        s.sort()
-        
-        alpha = list("abcdefghijklmnopqrstuvwxyz")
+        s = set(sentence)        
+        alpha = set("abcdefghijklmnopqrstuvwxyz")
         return s == alpha
 
         
