@@ -8,6 +8,7 @@ My Leetcode Python Solutions
 | ------- |
 | [0001-two-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0027-remove-element) |
+| [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
@@ -132,6 +133,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -170,4 +172,8 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
