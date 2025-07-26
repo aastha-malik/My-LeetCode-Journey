@@ -85,6 +85,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1524-string-matching-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1524-string-matching-in-an-array) |
 | [1899-count-items-matching-a-rule](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1960-check-if-the-sentence-is-pangram) |
