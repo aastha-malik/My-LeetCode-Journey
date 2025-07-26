@@ -92,6 +92,7 @@ My Leetcode Python Solutions
 | [2365-percentage-of-letter-in-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2365-percentage-of-letter-in-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2881-split-strings-by-separator) |
+| [3709-find-special-substring-of-length-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3709-find-special-substring-of-length-k) |
 | [3893-generate-tag-for-video-caption](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3893-generate-tag-for-video-caption) |
 ## Matrix
 |  |
