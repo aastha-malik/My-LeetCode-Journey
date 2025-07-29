@@ -10,6 +10,7 @@ My Leetcode Python Solutions
 | [0027-remove-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
@@ -170,6 +171,7 @@ My Leetcode Python Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2714-left-and-right-sum-differences) |
