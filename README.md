@@ -50,6 +50,7 @@ My Leetcode Python Solutions
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3541-report-spam-message](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3541-report-spam-message) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Stack
@@ -100,6 +101,7 @@ My Leetcode Python Solutions
 | [2365-percentage-of-letter-in-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2365-percentage-of-letter-in-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2881-split-strings-by-separator) |
+| [3541-report-spam-message](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3541-report-spam-message) |
 | [3709-find-special-substring-of-length-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3709-find-special-substring-of-length-k) |
 | [3893-generate-tag-for-video-caption](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3893-generate-tag-for-video-caption) |
 ## Matrix
@@ -160,6 +162,7 @@ My Leetcode Python Solutions
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3541-report-spam-message](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3541-report-spam-message) |
 ## Geometry
 |  |
 | ------- |
