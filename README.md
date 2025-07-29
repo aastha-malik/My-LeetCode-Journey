@@ -11,6 +11,7 @@ My Leetcode Python Solutions
 | [0217-contains-duplicate](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
@@ -74,6 +75,7 @@ My Leetcode Python Solutions
 | ------- |
 | [0217-contains-duplicate](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0561-array-partition) |
@@ -119,11 +121,13 @@ My Leetcode Python Solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -148,6 +152,7 @@ My Leetcode Python Solutions
 | [0217-contains-duplicate](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -191,4 +196,16 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
