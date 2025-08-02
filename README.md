@@ -12,6 +12,7 @@ My Leetcode Python Solutions
 | [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
@@ -78,6 +79,7 @@ My Leetcode Python Solutions
 | [0217-contains-duplicate](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0561-array-partition) |
@@ -110,6 +112,7 @@ My Leetcode Python Solutions
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1677-matrix-diagonal-sum) |
@@ -127,6 +130,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -174,6 +178,7 @@ My Leetcode Python Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1486-find-the-distance-value-between-two-arrays) |
