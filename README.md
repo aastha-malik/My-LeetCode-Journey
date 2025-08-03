@@ -39,6 +39,7 @@ My Leetcode Python Solutions
 | [2144-maximum-difference-between-increasing-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2502-sort-the-people](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2502-sort-the-people) |
 | [2639-separate-the-digits-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -90,6 +91,7 @@ My Leetcode Python Solutions
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2502-sort-the-people](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2502-sort-the-people) |
 | [2756-buy-two-chocolates](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 ## String
@@ -104,6 +106,7 @@ My Leetcode Python Solutions
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2365-percentage-of-letter-in-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2365-percentage-of-letter-in-string) |
+| [2502-sort-the-people](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2881-split-strings-by-separator) |
 | [3541-report-spam-message](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3541-report-spam-message) |
@@ -167,6 +170,7 @@ My Leetcode Python Solutions
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2502-sort-the-people](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2502-sort-the-people) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3446-find-the-number-of-good-pairs-i) |
