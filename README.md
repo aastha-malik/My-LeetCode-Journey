@@ -103,6 +103,7 @@ My Leetcode Python Solutions
 | [0521-longest-uncommon-subsequence-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1524-string-matching-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1524-string-matching-in-an-array) |
+| [1894-merge-strings-alternately](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -152,6 +153,7 @@ My Leetcode Python Solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1894-merge-strings-alternately](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Counting Sort
