@@ -51,6 +51,7 @@ My Leetcode Python Solutions
 | [2836-neither-minimum-nor-maximum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2881-split-strings-by-separator) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -68,6 +69,7 @@ My Leetcode Python Solutions
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2639-separate-the-digits-in-an-array) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3893-generate-tag-for-video-caption](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3893-generate-tag-for-video-caption) |
 ## Greedy
 |  |
