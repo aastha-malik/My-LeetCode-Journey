@@ -51,6 +51,7 @@ My Leetcode Python Solutions
 | [2836-neither-minimum-nor-maximum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2881-split-strings-by-separator) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3321-type-of-triangle](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3321-type-of-triangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -97,6 +98,7 @@ My Leetcode Python Solutions
 | [2502-sort-the-people](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2502-sort-the-people) |
 | [2756-buy-two-chocolates](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
+| [3321-type-of-triangle](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -130,6 +132,7 @@ My Leetcode Python Solutions
 | [1115-valid-boomerang](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1115-valid-boomerang) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3321-type-of-triangle](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
