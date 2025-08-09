@@ -60,6 +60,7 @@ My Leetcode Python Solutions
 | [3541-report-spam-message](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3541-report-spam-message) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +140,7 @@ My Leetcode Python Solutions
 | [3515-find-if-digit-game-can-be-won](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
