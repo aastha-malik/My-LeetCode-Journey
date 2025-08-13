@@ -8,6 +8,7 @@ My Leetcode Python Solutions
 | ------- |
 | [0001-two-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
@@ -197,6 +198,7 @@ My Leetcode Python Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
