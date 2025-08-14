@@ -50,6 +50,7 @@ My Leetcode Python Solutions
 | [2714-left-and-right-sum-differences](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2777-find-the-distinct-difference-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2777-find-the-distinct-difference-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 | [2881-split-strings-by-separator](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2881-split-strings-by-separator) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -189,6 +190,7 @@ My Leetcode Python Solutions
 | [2502-sort-the-people](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2502-sort-the-people) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2777-find-the-distinct-difference-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2777-find-the-distinct-difference-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3541-report-spam-message](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3541-report-spam-message) |
 ## Geometry
