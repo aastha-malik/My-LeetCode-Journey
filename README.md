@@ -81,6 +81,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0561-array-partition) |
+| [1448-maximum-69-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1448-maximum-69-number) |
 | [2756-buy-two-chocolates](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Sorting
@@ -138,6 +139,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1115-valid-boomerang) |
+| [1448-maximum-69-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3321-type-of-triangle](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3321-type-of-triangle) |
