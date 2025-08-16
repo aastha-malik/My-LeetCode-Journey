@@ -106,6 +106,7 @@ My Leetcode Python Solutions
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -163,6 +164,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1486-find-the-distance-value-between-two-arrays) |
