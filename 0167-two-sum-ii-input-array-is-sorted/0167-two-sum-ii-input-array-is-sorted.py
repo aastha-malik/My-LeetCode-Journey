@@ -5,7 +5,7 @@ class Solution:
             n = target - numbers[i]
             if n in numbers:
                 for j in range(i+1, l):
-                    if numbers[i] + numbers[j] == target:
+                    if n == numbers[j]:
                         return [i+1, j+1]
 
         
