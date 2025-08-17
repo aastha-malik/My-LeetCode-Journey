@@ -1,11 +1,7 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        arr = list(set(nums.copy()))
-        res = 0
+        l = len(nums)
+        arr = list(set(nums))
         for i in arr:
-            c = nums.count(i)
-            if c > res:
-                res = c
-        for i in arr:
-            if res == nums.count(i):
+            if nums.count(i) > (l//2):
                 return i
