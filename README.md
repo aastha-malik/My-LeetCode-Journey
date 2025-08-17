@@ -10,6 +10,7 @@ My Leetcode Python Solutions
 | [0027-remove-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
@@ -87,6 +88,7 @@ My Leetcode Python Solutions
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -158,6 +160,7 @@ My Leetcode Python Solutions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -184,6 +187,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
@@ -244,6 +248,7 @@ My Leetcode Python Solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
