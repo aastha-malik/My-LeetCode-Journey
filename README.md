@@ -285,4 +285,12 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0948-sort-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
