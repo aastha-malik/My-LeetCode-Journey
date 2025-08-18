@@ -12,6 +12,7 @@ My Leetcode Python Solutions
 | [0035-search-insert-position](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0189-rotate-array) |
@@ -305,4 +306,8 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0386-lexicographical-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
