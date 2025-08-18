@@ -7,6 +7,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0075-sort-colors) |
@@ -85,6 +86,7 @@ My Leetcode Python Solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 | [1448-maximum-69-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1448-maximum-69-number) |
@@ -181,6 +183,7 @@ My Leetcode Python Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0088-merge-sorted-array) |
