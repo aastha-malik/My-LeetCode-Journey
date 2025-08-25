@@ -79,6 +79,7 @@ My Leetcode Python Solutions
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -122,6 +123,7 @@ My Leetcode Python Solutions
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0344-reverse-string) |
@@ -154,6 +156,7 @@ My Leetcode Python Solutions
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0189-rotate-array) |
