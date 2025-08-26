@@ -271,6 +271,7 @@ My Leetcode Python Solutions
 | ------- |
 | [0136-single-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0338-counting-bits) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Sliding Window
 |  |
@@ -321,4 +322,5 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
