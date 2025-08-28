@@ -163,6 +163,7 @@ My Leetcode Python Solutions
 | [0050-powx-n](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0268-missing-number) |
 | [1115-valid-boomerang](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1115-valid-boomerang) |
 | [1448-maximum-69-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1448-maximum-69-number) |
@@ -201,6 +202,7 @@ My Leetcode Python Solutions
 | [0125-valid-palindrome](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
@@ -220,6 +222,7 @@ My Leetcode Python Solutions
 | ------- |
 | [0001-two-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
