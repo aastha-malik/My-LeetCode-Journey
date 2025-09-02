@@ -159,6 +159,7 @@ My Leetcode Python Solutions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0066-plus-one) |
