@@ -7,5 +7,4 @@ class Solution:
             if new_s1 == sub_str :
                 return True
         return False
-__import__("atexit").register(lambda: open("display_runtime.txt",'w').write('0'))
         
