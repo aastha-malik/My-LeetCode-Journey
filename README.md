@@ -10,6 +10,7 @@ My Leetcode Python Solutions
 | [0011-container-with-most-water](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0088-merge-sorted-array) |
@@ -100,6 +101,7 @@ My Leetcode Python Solutions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0169-majority-element) |
@@ -127,6 +129,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0344-reverse-string) |
@@ -223,6 +226,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
