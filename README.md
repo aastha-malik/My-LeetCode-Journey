@@ -80,6 +80,7 @@ My Leetcode Python Solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -131,6 +132,7 @@ My Leetcode Python Solutions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
