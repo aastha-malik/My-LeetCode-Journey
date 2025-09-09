@@ -1,23 +1,23 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         res = []
-        for i in range(len(s)):
-            if s[i] == '(' or s[i] == '{' or s[i] == '[':
-                res.append(s[i])
+        for i in s:
+            if i == '(' or i == '{' or i == '[':
+                res.append(i)
             else:
                 if len(res) == 0:
                     return False
-                if s[i] == ")":
+                if i == ")":
                     if res[-1] == "(":
                         res.pop()
                     else:
                         return False
-                elif s[i] == "}":
+                elif i == "}":
                     if res[-1] == "{":
                         res.pop()
                     else:
                         return False
-                elif s[i] == "]":
+                elif i == "]":
                     if res[-1] == "[":
                         res.pop()
                     else:
