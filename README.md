@@ -82,6 +82,7 @@ My Leetcode Python Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +145,7 @@ My Leetcode Python Solutions
 | [0521-longest-uncommon-subsequence-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1524-string-matching-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1524-string-matching-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1746-largest-substring-between-two-equal-characters) |
