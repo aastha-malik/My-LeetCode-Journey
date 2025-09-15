@@ -32,6 +32,7 @@ My Leetcode Python Solutions
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1115-valid-boomerang](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1115-valid-boomerang) |
@@ -275,6 +276,7 @@ My Leetcode Python Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0792-binary-search](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0792-binary-search) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1486-find-the-distance-value-between-two-arrays) |
