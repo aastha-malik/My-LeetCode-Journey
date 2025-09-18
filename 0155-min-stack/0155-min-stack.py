@@ -10,7 +10,7 @@ class MinStack:
         if not self.min_stack or val <= self.min_stack[-1]:
             self.min_stack.append(val)
         
-        return self.stack.append(val)
+        self.stack.append(val)
 
         
 
