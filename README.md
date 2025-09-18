@@ -84,6 +84,7 @@ My Leetcode Python Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 ## Simulation
@@ -365,4 +366,8 @@ My Leetcode Python Solutions
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0338-counting-bits) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
