@@ -1,7 +1,7 @@
 # My-LeetCode-Journey
-My Leetcode Python Solutions
-My taskUforward profile: https://takeuforward.org/profile/blackswan_am
-My Leetcode profile: https://leetcode.com/u/aastha_malik/
+ My Leetcode Python Solutions     
+ [My taskUforward Profile]( https://takeuforward.org/profile/blackswan_am)     
+ [My Leetcode Profile]( https://leetcode.com/u/aastha_malik/)  
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
