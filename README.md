@@ -186,6 +186,7 @@
 | [0189-rotate-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1115-valid-boomerang) |
 | [1448-maximum-69-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -349,6 +350,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1013-fibonacci-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -370,8 +372,13 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0155-min-stack) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
