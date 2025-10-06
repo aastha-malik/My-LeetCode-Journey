@@ -9,9 +9,9 @@ class Solution:
                 else:
                     i += 1
                     j -= 1
-            elif s[i].isalnum() == True and s[j].isalnum() == False:
+            elif s[i].isalnum()  and not s[j].isalnum() :
                 j -= 1
-            elif s[i].isalnum() == False and s[j].isalnum() == True:
+            elif not s[i].isalnum()  and s[j].isalnum():
                 i += 1
             else:
                 i += 1
