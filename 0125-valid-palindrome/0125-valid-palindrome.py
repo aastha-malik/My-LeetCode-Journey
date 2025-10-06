@@ -4,10 +4,14 @@ class Solution:
         for i in s:
             if i.isalnum() == True  :
                 arr.append(i.lower())
-        s = "".join(arr)
-        n = len(s)
-        for i in range(n):
-            if s[i] != s[n - i - 1]:
-                return False
-        return True
+
+        def palindrome(i):
+            if i < len(arr):
+                if arr[i] != arr[len(arr) - 1-i]:
+                    return False
+                else:
+                    return palindrome(i+1)
+            else:
+                return True
         
+        return palindrome(0)
