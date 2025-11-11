@@ -1,13 +1,13 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
-        arr = []
-        for i in nums:
-            arr.append(i)
+        arr = nums.copy()
         arr.sort()
-        arr = arr + arr
-        l = len(nums)
-        for i in range(len(arr)):
-            if nums == arr[i:i+l]:
-                return True
-        return False
-            
+        if nums == arr:
+            return True
+        else:
+            l = len(nums)
+            arr = arr + arr
+            for i in range(l):
+                if arr[i:i+l] == nums:
+                    return True
+            return False
