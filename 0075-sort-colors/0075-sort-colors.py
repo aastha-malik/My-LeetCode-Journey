@@ -3,22 +3,25 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        zero = []
-        one = []
-        two = []
-        for i in nums:
-            if i == 0:
-                zero.append(i)
-            elif i == 1:
-                one.append(i)
-            elif i == 2:
-                two.append(i)
-        arr = zero + one + two
-        for i in range(len(nums)):
-            nums[i] = arr[i]
+        m = max(nums)
 
+        count = [0] * (m + 1)
+        for x in nums:
+            count[x] += 1
         
-
+        n = 0
+        i = 0
+        while i < len(count):
+            res = 0
+            if count[i] > 0:
+                while n < len(nums):
+                    nums[n] = i
+                    res += 1
+                    n += 1
+                    if res == count[i]:
+                        break
+            i += 1
+        
 
 
         
