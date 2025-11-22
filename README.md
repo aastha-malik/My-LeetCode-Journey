@@ -18,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -176,6 +177,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -256,6 +258,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0202-happy-number) |
