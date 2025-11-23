@@ -4,18 +4,12 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
         l = len(matrix)
-        s = set()
         for x in range(l):
-            for y in range(l):
-                s.add((y,x,matrix[x][y]))
-        
-        for i in s:
-            matrix[i[0]][i[1]] = i[2]
+            for y in range(x+1,l):
+                matrix[x][y], matrix[y][x] = matrix[y][x], matrix[x][y]
 
         for i in range(l):
             for j in range(l//2):
                 matrix[i][j], matrix[i][l-j-1] = matrix[i][l-j-1], matrix[i][j]
-
-
 
 
