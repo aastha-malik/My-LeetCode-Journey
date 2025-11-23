@@ -15,6 +15,7 @@
 | [0027-remove-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0066-plus-one) |
@@ -177,6 +178,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0189-rotate-array) |
