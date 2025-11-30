@@ -104,6 +104,7 @@
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2169-count-operations-to-obtain-zero) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2639-separate-the-digits-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2639-separate-the-digits-in-an-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -203,6 +204,7 @@
 | [1448-maximum-69-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2169-count-operations-to-obtain-zero) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3321-type-of-triangle](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
