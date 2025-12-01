@@ -1,5 +1,9 @@
 class Solution:
     def hammingWeight(self, n: int) -> int:
-        s = bin(n)[2:]
-        return s.count("1")
+        b = bin(n) [2:]
+        res = 0
+        for i in b:
+            if i == "1":
+                res += 1
+        return res
         
