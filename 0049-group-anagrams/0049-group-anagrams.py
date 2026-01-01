@@ -3,11 +3,14 @@ class Solution:
         d = {}
         for i in strs:
             s = "".join(sorted(i))
-            if s in d :
-                d[s].append(i)
-            else:
+            if s not in d.keys():
                 d[s] = [i]
-        arr = []
-        for i in d:
-            arr.append(d[i])
-        return arr
+            else:
+                d[s].append(i)
+
+            
+        res = []
+        for i in  d.values():
+            res.append(i)
+            
+        return res
