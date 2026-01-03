@@ -1,27 +1,27 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        res = []
+        opened = ["(", "[", "{"]
+        closed = [")", "]", "}"]
+
+        stack = []
         for i in s:
-            if i == '(' or i == '{' or i == '[':
-                res.append(i)
+            if i in opened:
+                stack.append(i)
             else:
-                if len(res) == 0:
+                if len(stack) == 0:
                     return False
-                if i == ")":
-                    if res[-1] == "(":
-                        res.pop()
+                else:
+                    if i == ")" and stack[-1] == "(":
+                        stack.pop()
+                    elif i == "]" and stack[-1] == "[":
+                        stack.pop()
+                    elif i == "}" and stack[-1] == "{":
+                        stack.pop()
                     else:
                         return False
-                elif i == "}":
-                    if res[-1] == "{":
-                        res.pop()
-                    else:
-                        return False
-                elif i == "]":
-                    if res[-1] == "[":
-                        res.pop()
-                    else:
-                        return False
-        return len(res) == 0
-        
+        return len(stack) == 0
+            
+            
+
+
         
