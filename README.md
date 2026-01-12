@@ -241,6 +241,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0075-sort-colors) |
@@ -377,6 +378,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0143-reorder-list) |
