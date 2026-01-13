@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
@@ -406,6 +407,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -431,4 +433,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
