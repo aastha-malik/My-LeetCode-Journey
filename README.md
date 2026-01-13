@@ -408,6 +408,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -437,8 +438,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
