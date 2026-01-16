@@ -3,7 +3,6 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-
         x = set()
         y = set()
         for i in range(len(matrix)):
@@ -12,10 +11,9 @@ class Solution:
                     x.add(i)
                     y.add(j)
         
-        for i in range(len(matrix)):    
+        for i in range(len(matrix)):
             for j in range(len(matrix[i])):
                 if i in x or j in y:
                     matrix[i][j] = 0
+               
 
-        
-        
