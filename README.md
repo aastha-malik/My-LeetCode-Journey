@@ -328,6 +328,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1524-string-matching-in-an-array) |
 ## Prefix Sum
 |  |
@@ -411,6 +412,7 @@
 | [0100-same-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0386-lexicographical-numbers) |
+| [0572-subtree-of-another-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0572-subtree-of-another-tree) |
 ## Trie
 |  |
 | ------- |
@@ -442,6 +444,7 @@
 | [0100-same-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -449,10 +452,15 @@
 | [0100-same-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0226-invert-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
