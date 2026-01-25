@@ -42,6 +42,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0561-array-partition) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 | [1448-maximum-69-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1448-maximum-69-number) |
@@ -141,6 +143,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0948-sort-an-array) |
@@ -432,6 +435,7 @@
 | [0118-pascals-triangle](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
