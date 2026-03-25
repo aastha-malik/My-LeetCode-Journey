@@ -33,6 +33,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0229-majority-element-ii) |
@@ -323,6 +324,7 @@
 | [0035-search-insert-position](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -339,6 +341,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2102-find-the-middle-index-in-array) |
@@ -365,6 +368,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
