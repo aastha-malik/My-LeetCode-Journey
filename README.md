@@ -47,6 +47,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0561-array-partition) |
+| [0658-find-k-closest-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0792-binary-search) |
@@ -147,6 +148,7 @@
 | [0435-non-overlapping-intervals](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0561-array-partition) |
+| [0658-find-k-closest-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -233,6 +235,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -266,6 +269,7 @@
 | [0344-reverse-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -328,6 +332,7 @@
 | [0268-missing-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0792-binary-search) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -371,6 +376,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
