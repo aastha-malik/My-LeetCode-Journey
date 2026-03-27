@@ -50,6 +50,7 @@
 | [0658-find-k-closest-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0948-sort-an-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -106,12 +107,14 @@
 | [0143-reorder-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2169-count-operations-to-obtain-zero) |
