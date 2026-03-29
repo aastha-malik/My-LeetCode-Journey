@@ -51,6 +51,7 @@
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0948-sort-an-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -108,6 +109,7 @@
 | [0155-min-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 ## Simulation
 |  |
@@ -500,4 +502,8 @@
 | [0098-validate-binary-search-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
