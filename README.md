@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0155-min-stack) |
@@ -172,6 +173,7 @@
 | [0020-valid-parentheses](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0205-isomorphic-strings) |
