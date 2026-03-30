@@ -18,7 +18,6 @@ class Solution:
             else:
                 stack.append(s[i])
                 i+=1
-        res = "/".join(stack)
-        return "/"+res
+        return "/" + "/".join(stack)
 
         
