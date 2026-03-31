@@ -108,6 +108,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
@@ -181,6 +182,7 @@
 | [0290-word-pattern](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0394-decode-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0680-valid-palindrome-ii) |
@@ -420,6 +422,7 @@
 | [0050-powx-n](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1013-fibonacci-number) |
 ## Merge Sort
 |  |
