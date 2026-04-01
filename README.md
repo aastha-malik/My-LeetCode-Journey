@@ -24,6 +24,7 @@
 | [0057-insert-interval](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0118-pascals-triangle) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1386-shift-2d-grid](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1386-shift-2d-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -336,6 +338,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0268-missing-number) |
