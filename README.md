@@ -114,6 +114,7 @@
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
+| [0895-maximum-frequency-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0895-maximum-frequency-stack) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 ## Simulation
 |  |
@@ -315,6 +316,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0567-permutation-in-string) |
+| [0895-maximum-frequency-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0895-maximum-frequency-stack) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -466,6 +468,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0155-min-stack) |
+| [0895-maximum-frequency-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0895-maximum-frequency-stack) |
 ## Memoization
 |  |
 | ------- |
@@ -516,4 +519,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0739-daily-temperatures) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
