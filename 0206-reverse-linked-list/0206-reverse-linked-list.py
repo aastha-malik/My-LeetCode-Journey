@@ -15,6 +15,4 @@ class Solution:
         head = prev
         return head
 
-
-
         
