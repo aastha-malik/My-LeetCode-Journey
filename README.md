@@ -288,6 +288,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -425,6 +426,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
