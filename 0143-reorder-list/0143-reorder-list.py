@@ -1,39 +1,38 @@
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
         """
         Do not return anything, modify head in-place instead.
         """
-        if head is None or head.next is None:
-            return head
         slow = head
         fast = head
-        while fast is not None and fast.next is not None:
-            prev = slow
+        while fast and fast.next:
+            pointer = slow
             slow = slow.next
             fast = fast.next.next
-        
-        prev.next = None
+        #slow => one prev node of mid of linked list
+        pointer.next = None
 
-        p = None
-        c = slow
-        while c:
-            temp = c.next
-            c.next = p
-            p = c
-            c = temp
-            
-        f = head
-        s = p
-        while f and s:
-            f1 = f.next
-            p1 = s.next
-            f.next = s
-            if f1:
-                s.next = f1
-            f = f1
-            s = p1
+        prev = None
+        curr = slow
+        while curr:
+            temp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = temp
+
+        while head and prev:
+            temp1 = head.next
+            temp2 = prev.next
+            head.next =  prev
+            if temp1:
+                prev.next = temp1
+            head = temp1
+            prev = temp2
+
+
+        
