@@ -308,6 +308,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0205-isomorphic-strings) |
@@ -428,6 +429,7 @@
 | [0141-linked-list-cycle](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0206-reverse-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -477,6 +479,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0155-min-stack) |
 | [0895-maximum-frequency-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0895-maximum-frequency-stack) |
 ## Memoization
@@ -533,4 +536,8 @@
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0895-maximum-frequency-stack) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
