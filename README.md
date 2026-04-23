@@ -48,6 +48,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0561-array-partition) |
+| [0622-design-circular-queue](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0704-binary-search) |
@@ -431,6 +432,7 @@
 | [0143-reorder-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0622-design-circular-queue) |
 | [1669-merge-in-between-linked-lists](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -481,6 +483,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0622-design-circular-queue) |
 | [0895-maximum-frequency-stack](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0895-maximum-frequency-stack) |
 ## Memoization
 |  |
@@ -540,4 +543,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/aastha-malik/My-LeetCode-Journey/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
