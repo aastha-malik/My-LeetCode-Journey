@@ -4,34 +4,62 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from collections import deque
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-        def isSameTree(p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-            
-            if p is None and q is None:
-                return True
-            if p is None or q is None:
+        if root is None:
+            if subRoot is None:
+                return  True
+            else:
                 return False
-            if p.val != q.val:
-                return False
-            return isSameTree(p.left, q.left) and isSameTree(p.right, q.right)
-
-
-        stack = [root]
+        if subRoot is None and root is not None:
+            return True
+        q = deque([root])
         
-        while stack:
-            node = stack.pop()
+        while q:
+            node = q.popleft()
             if node.val == subRoot.val:
-                # sametree func logic in dfs...
-                
-                if isSameTree(node, subRoot):
+                p_deque = deque([node])
+                q_deque = deque([subRoot])
+                broke = False
+
+                while p_deque and q_deque:
+                    node_p = p_deque.popleft()
+                    node_q = q_deque.popleft()
+
+                    if node_p.val != node_q.val:
+                        broke = True
+                        break
+                    if node_p.left and node_q.left:
+                        p_deque.append(node_p.left)
+                        q_deque.append(node_q.left)
+                    if node_p.left is None and node_q.left is not None:
+                        broke = True
+                        break
+                    if node_p.left is not None and node_q.left is None:
+                        broke = True
+                        break
+                    
+                    if node_p.right and node_q.right:
+                        p_deque.append(node_p.right)
+                        q_deque.append(node_q.right)
+                    if node_p.right is None and node_q.right is not None:
+                        broke = True
+                        break
+                    if node_p.right is not None and node_q.right is None:
+                        broke = True
+                        break
+                if broke == True:
+                    if node.left:
+                        q.append(node.left)
+                    if node.right:
+                        q.append(node.right)
+                else:
                     return True
-
-            if node.right:
-                stack.append(node.right)
-            if node.left:
-                stack.append(node.left)
-
+            else:
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
         return False
-
-        
+                    
